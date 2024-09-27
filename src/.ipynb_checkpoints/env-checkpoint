@@ -1,0 +1,5 @@
+DBHOST=de-c4w1lab1-rds.c5qeqia4s5iy.us-east-1.rds.amazonaws.com
+DBUSER = postgresuser
+DBPASSWORD = adminpwrd
+DBPORT = 5432
+DBNAME = postgres

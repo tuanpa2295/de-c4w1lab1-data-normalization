@@ -1,0 +1,43 @@
+nohup: ignoring input
+[I 2024-09-27 11:01:16.550 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-27 11:01:16.563 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-27 11:01:16.578 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-27 11:01:16.581 ServerApp] Writing Jupyter server cookie secret to /home/ec2-user/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2024-09-27 11:01:17.513 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-27 11:01:17.575 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-27 11:01:17.581 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-27 11:01:17.584 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-27 11:01:17.587 LabApp] JupyterLab extension loaded from /home/ec2-user/environment/lab-venv/lib64/python3.9/site-packages/jupyterlab
+[I 2024-09-27 11:01:17.587 LabApp] JupyterLab application directory is /home/ec2-user/environment/lab-venv/share/jupyter/lab
+[I 2024-09-27 11:01:17.588 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-27 11:01:17.602 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-27 11:01:17.603 ServerApp] Serving notebooks from local directory: /home/ec2-user/environment
+[I 2024-09-27 11:01:17.603 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-27 11:01:17.603 ServerApp] http://ip-10-0-1-145.ec2.internal:8888/lab?token=8a91c59f7f7c2459575b07d6482d8ce2e38638d950fcfbe7
+[I 2024-09-27 11:01:17.603 ServerApp]     http://127.0.0.1:8888/lab?token=8a91c59f7f7c2459575b07d6482d8ce2e38638d950fcfbe7
+[I 2024-09-27 11:01:17.603 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-09-27 11:01:17.618 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-09-27 11:01:17.619 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/ec2-user/.local/share/jupyter/runtime/jpserver-4192-open.html
+    Or copy and paste one of these URLs:
+        http://ip-10-0-1-145.ec2.internal:8888/lab?token=8a91c59f7f7c2459575b07d6482d8ce2e38638d950fcfbe7
+        http://127.0.0.1:8888/lab?token=8a91c59f7f7c2459575b07d6482d8ce2e38638d950fcfbe7
+[I 2024-09-27 11:01:18.255 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-09-27 11:01:57.028 LabApp] Build is up to date
+[I 2024-09-27 11:05:26.962 ServerApp] Writing notebook-signing key to /home/ec2-user/.local/share/jupyter/notebook_secret
+[W 2024-09-27 11:05:27.004 ServerApp] Notebook C4_W1_Lab_1_Data_Normalization.ipynb is not trusted
+[I 2024-09-27 11:05:29.490 ServerApp] Kernel started: 3238e6fc-3f71-4861-9a4c-d1270d3a0552
+[I 2024-09-27 11:05:30.686 ServerApp] Connecting to kernel 3238e6fc-3f71-4861-9a4c-d1270d3a0552.
+[I 2024-09-27 11:06:13.652 ServerApp] Connecting to kernel 3238e6fc-3f71-4861-9a4c-d1270d3a0552.
+[I 2024-09-27 11:07:28.864 ServerApp] Saving file at /C4_W1_Lab_1_Data_Normalization.ipynb
+[I 2024-09-27 11:07:36.509 ServerApp] Saving file at /src/env
+[I 2024-09-27 11:09:29.935 ServerApp] Saving file at /C4_W1_Lab_1_Data_Normalization.ipynb
+[I 2024-09-27 11:11:32.559 ServerApp] Saving file at /C4_W1_Lab_1_Data_Normalization.ipynb
+[I 2024-09-27 11:13:34.052 ServerApp] Saving file at /C4_W1_Lab_1_Data_Normalization.ipynb
+[I 2024-09-27 11:15:35.543 ServerApp] Saving file at /C4_W1_Lab_1_Data_Normalization.ipynb
+[I 2024-09-27 11:17:40.808 ServerApp] Saving file at /C4_W1_Lab_1_Data_Normalization.ipynb
+[I 2024-09-27 11:19:43.907 ServerApp] Saving file at /C4_W1_Lab_1_Data_Normalization.ipynb
+[I 2024-09-27 11:21:48.231 ServerApp] Saving file at /C4_W1_Lab_1_Data_Normalization.ipynb
+[I 2024-09-27 11:22:02.661 ServerApp] Saving file at /C4_W1_Lab_1_Data_Normalization.ipynb
